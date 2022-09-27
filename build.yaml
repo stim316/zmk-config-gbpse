@@ -14,4 +14,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: contra
+    shield: gbpse_left
+  - board: nice_nano_v2
+    shield: gbpse_right
